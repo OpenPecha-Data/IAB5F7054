@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC368
   title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
-  volume: ''
+  volume:
+    3117483758c7489d8a0b2f2f4a978700:
+      image_group_id: I4PD4429
+      title: Volume 1 of chu glang wang shu tshur phul gyi deb gzhung /
+      volume_number: 1
+      total_pages: 372
   author: ''
+ebook_metadata:
+  title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
+  author: ''
+  sku: P008032
+  cover: cover.jpg
+  layers:
+  - pagination
