@@ -1,15 +1,16 @@
-id: opecha:P008032
+id: P008032
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC368
   title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
-  volume:
+  author: ''
+  volumes:
     3117483758c7489d8a0b2f2f4a978700:
       image_group_id: I4PD4429
       title: Volume 1 of chu glang wang shu tshur phul gyi deb gzhung /
       volume_number: 1
       total_pages: 372
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
   author: ''
