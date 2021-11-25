@@ -1,5 +1,7 @@
 id: P008032
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1AC368
   title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 372
       base_file: v001.txt
-ebook_metadata:
-  title: 'ཆུ་གླང་ཝང་ཤུ་ཚུར་ཕུལ་གྱི་དེབ་གཞུང་། '
-  author: ''
-  sku: P008032
-  cover: cover.jpg
-  layers:
-  - pagination
